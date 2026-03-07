@@ -17,4 +17,5 @@
 
 ## ⚡ Fun Fact
 I love science movies like Interstellar.
+![snake gif](https://github.com/rajanmagratitsk/rajanmagratitsk/blob/output/github-snake-dark.svg)
 
