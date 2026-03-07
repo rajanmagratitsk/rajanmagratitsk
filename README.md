@@ -17,3 +17,4 @@
 
 ## ⚡ Fun Fact
 I love science movies like Interstellar.
+![Lion Animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
