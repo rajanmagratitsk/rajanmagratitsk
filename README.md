@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Rajan;BCA+Student+from+Nepal;Learning+Java+and+C;Future+Software+Developer)
 # Hi 👋 I'm Rajan
 
 🎓 BCA Student at Tribhuvan University, Nepal  
