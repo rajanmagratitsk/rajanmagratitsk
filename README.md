@@ -9,6 +9,8 @@
 - Java
 - HTML
 - CSS
+- Javascript
+- php
 
 ## 📚 Currently Learning
 - Java GUI Programs
