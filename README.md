@@ -11,6 +11,7 @@
 - CSS
 - Javascript
 - php
+- python
 
 ## 📚 Currently Learning
 - Java GUI Programs
