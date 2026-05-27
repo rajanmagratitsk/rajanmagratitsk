@@ -4,7 +4,7 @@
 🎓 BCA Student at Tribhuvan University, Nepal  
 💻 Learning Programming and Software Development  
 
-## 🚀 Skills
+##  Skills
 - C Programming
 - Java
 - HTML
